@@ -27,7 +27,7 @@ All programs can be executed with any Python3 implementation
 [00_isolated-dynamics.py](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python/00_isolated-dynamics.py) 
 and [histograms.py](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python/histograms.py)
 rely both on [NumPy](https://numpy.org/) and 
-[Matplotlib](https://matplotlib.org/) to realize the histograms, while
+[Matplotlib](https://matplotlib.org/) to produce the histograms, while
 all other programs do not have any further requirements. 
 
 
