@@ -1,1 +1,0 @@
-The Mathematica notebook is coming soon.
