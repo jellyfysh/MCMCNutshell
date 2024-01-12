@@ -1,11 +1,11 @@
 ## MCMCNutshell
 This repository accompanies the article 
 [Concepts in Monte Carlo sampling](https://github.com/jellyfysh/MCMCNutshell/blob/master/Concepts_in_Monte_Carlo_sampling.pdf)
-by Gabriele Tartero and Werner Krauth. It contains all the programs
-discussed in Appendix B. 
+by Gabriele Tartero and Werner Krauth. It contains all the supplementary 
+material discussed in Appendix B.  
 
 This article may be downloaded for personal use only. 
-Any other use requires prior permission of the author and AIP Publishing. 
+Any other use requires prior permission of the authors and AIP Publishing. 
 This article appeared in American Journal of Physics, Volume 92, Issue 1
 (January 2024) and may be found also [here](https://doi.org/10.1119/5.0176853).
 
@@ -19,15 +19,15 @@ mathematical results presented in Appendix A.
 The [Python directory](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python) 
 contains thirteen simulations of one particle 
 subject to a one-dimensional anharmonic potential, both 
-at constant energy (Algorithm 00) and at constant temperature
-(Algorithms from 01 to 12), as discussed in the paper. 
+at constant energy (Algorithm 0) and at constant temperature
+(Algorithms from 1 to 12), as discussed in the paper. 
 In every program, $\beta = 1$ is understood.
 
-The implementation of Algorithm 00 is self-contained:
+The implementation of Algorithm 0 is self-contained:
 it samples the position of the particle and compares the experimental
 histogram with the theoretical result, given by Equation (7) in Section IIA.
 
-The implementations of Algorithms from 01 to 12 all sample the position of the 
+Algorithms from 1 to 12 all sample the position of the 
 particle and store the results in a text file. To compare the experimental
 histograms with the theoretical Boltzmann distribution, it suffices to 
 produce the data with the concerned program and then run the script 
