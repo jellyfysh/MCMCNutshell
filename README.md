@@ -1,13 +1,13 @@
 ## MCMCNutshell
 This repository accompanies the article 
-[Concepts in Monte Carlo sampling](https://github.com/jellyfysh/MCMCNutshell/blob/master/Concepts_in_Monte_Carlo_sampling)
+[Concepts in Monte Carlo sampling](https://github.com/jellyfysh/MCMCNutshell/blob/master/Concepts_in_Monte_Carlo_sampling.pdf)
 by Gabriele Tartero and Werner Krauth. It contains all the programs
 discussed in Appendix B. 
 
 This article may be downloaded for personal use only. 
 Any other use requires prior permission of the author and AIP Publishing. 
 This article appeared in American Journal of Physics, Volume 92, Issue 1
-(January 2024) and may be found [here](https://doi.org/10.1119/5.0176853).
+(January 2024) and may be found also [here](https://doi.org/10.1119/5.0176853).
 
 ### Mathematica notebook
 The Mathematica directory contains a Mathematica notebook, 
