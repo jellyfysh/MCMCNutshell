@@ -10,12 +10,14 @@ This article appeared in American Journal of Physics, Volume 92, Issue 1
 (January 2024) and may be found also [here](https://doi.org/10.1119/5.0176853).
 
 ### Mathematica notebook
-The Mathematica directory contains a Mathematica notebook, 
+The [Mathematica directory](https://github.com/jellyfysh/MCMCNutshell/blob/master/Mathematica) 
+contains a Mathematica notebook, 
 both in .nb and .pdf formats, that can be used to reproduce the 
 mathematical results presented in Appendix A.
 
 ### Python programs
-The Python directory contains thirteen simulations of one particle 
+The [Python directory](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python) 
+contains thirteen simulations of one particle 
 subject to a one-dimensional anharmonic potential, both 
 at constant energy (Algorithm 00) and at constant temperature
 (Algorithms from 01 to 12), as discussed in the paper. 
@@ -28,7 +30,7 @@ histogram with the theoretical result, given by Equation (7) in Section IIA.
 The implementations of Algorithms from 01 to 12 all sample the position of the 
 particle and store the results in a text file. To compare the experimental
 histograms with the theoretical Boltzmann distribution, it suffices to 
-produce the data with the concerned program and then to run the script 
+produce the data with the concerned program and then run the script 
 [histograms.py](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python/histograms.py).
 
 All programs can be executed with any Python3 implementation 
