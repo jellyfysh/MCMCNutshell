@@ -10,14 +10,14 @@ This article appeared in American Journal of Physics, Volume 92, Issue 1
 (January 2024) and may be found also [here](https://doi.org/10.1119/5.0176853).
 
 ### Mathematica notebook
-The [Mathematica directory](https://github.com/jellyfysh/MCMCNutshell/blob/master/Mathematica) 
-contains a Mathematica notebook, 
+The [Mathematica](https://github.com/jellyfysh/MCMCNutshell/blob/master/Mathematica) 
+directory contains a Mathematica notebook, 
 both in .nb and .pdf formats, that can be used to reproduce the 
 mathematical results presented in Appendix A.
 
 ### Python programs
-The [Python directory](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python) 
-contains thirteen simulations of one particle 
+The [Python](https://github.com/jellyfysh/MCMCNutshell/blob/master/Python) 
+directory contains thirteen simulations of one particle 
 subject to a one-dimensional anharmonic potential, both 
 at constant energy (Algorithm 0) and at constant temperature
 (Algorithms from 1 to 12), as discussed in the paper. 
